@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Enable secure (HTTPS) connections to the Codespace domain -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">turbo-disco-wr9wpg555575f5vwq-5000.app.github.dev</domain>
+    </domain-config>
+</network-security-config>
